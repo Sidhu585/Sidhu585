@@ -3,7 +3,7 @@
 - 🌱 Currently learning advanced frontend development with **Next.js** and **CSS**
 - 👀 Interested in building user-centric, responsive websites
 - 💼 Open to collaboration on web development projects
-- 🎯 Goal: Becoming an astronaut
+
 
 
 <!---
